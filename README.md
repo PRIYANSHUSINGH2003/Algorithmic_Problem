@@ -110,6 +110,7 @@ Problem Statement
 You are given two non-negative integers, A and B. You are required to print the smallest
 non-negative integer such that it is not equal to both A and B.
 ![image](https://user-images.githubusercontent.com/102310770/211150286-b5639513-4dbb-41df-b3f8-ba2542cff4b8.png)
+
 Input
 The input consists of two space
 separated integers A and B.
