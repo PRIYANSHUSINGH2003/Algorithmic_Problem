@@ -72,6 +72,7 @@ public:
         }
     }
 };
+// Armstrong_Number
 class Armstrong_Number
 {
 public:
@@ -100,6 +101,8 @@ public:
         }
     }
 };
+
+//  Dragone_Egg
 class Dragone_Egg{
     public:
     int gold,Grams_Gold,silver,Grams_Silver,Amount;
@@ -122,6 +125,8 @@ class Dragone_Egg{
         }
     }
 };
+
+// Mex Of 2
 class Mex_Of_2{
     public:
     int a,b;
