@@ -18,6 +18,7 @@ Mathematically, x is palindrome if x = y where y = reverse of x.
  Since 1221 == 1221, Hence, x is palindrome.
  
  sol-output:
+ 
  ![image](https://user-images.githubusercontent.com/102310770/211149843-690c4d58-9911-4825-bb3b-1ccd3277edf7.png)
 # Time Complexity: O(N) => N
 
@@ -27,6 +28,7 @@ Mathematically, x is palindrome if x = y where y = reverse of x.
  The transpose of matrix is the matrix flipped over its main diagonal, switching the matrix's
  row and column indices.
 Here indices refer to index.
+
 ![image](https://user-images.githubusercontent.com/102310770/211149871-50bddd2a-288a-4fd4-bb44-1ea5fc859399.png)
 Example 1:
 Input: Matrix = [ [1,2,3] , [-4,5,6] , [7,8,9] ]
@@ -36,8 +38,9 @@ Input: Matrix = [ [3,3,3] , [-6,6,6] , [9,9,9] ]
 Output: [ [3,-6,9], [3,6,9] ,[3,6,9] ]
 
 sol-output:
+
 ![image](https://user-images.githubusercontent.com/102310770/211149913-70b59442-7cb5-4d61-9de9-fde5dcad4964.png)
-Time Complexity: O ( n 2 ) O(n^2) O(n2)
+# Time Complexity: O ( n 2 ) O(n^2) O(n2)
 
 
 3. Armstrong Number
@@ -63,8 +66,9 @@ Explanation: 172 is an Not Armstrong Number
 Since 13 + 73+ 23 != 123.
 
 sol-output:
+
 ![image](https://user-images.githubusercontent.com/102310770/211150007-3dc78c2b-1096-42d6-8f45-511a622b0dae.png)
-Time Complexity: O(log N) 
+# Time Complexity: O(log N) 
 
 
 4. The Dragon Eggs
@@ -95,8 +99,9 @@ Sample Output 2:
 Silver
 
 sol-output:
+
 ![image](https://user-images.githubusercontent.com/102310770/211150253-385e4113-c8fd-4cac-a5cf-e794055dc387.png)
- Time Complexity: if sequence 1 is O(N) 
+# Time Complexity: if sequence 1 is O(N) 
 
 5. Mex of 2
 Time Limit: 1 sec
@@ -122,7 +127,8 @@ Sample Output 2:
 0
 
 sol-output:
+
 ![image](https://user-images.githubusercontent.com/102310770/211150356-73ac1507-f55f-4c81-b888-bb16a2a806a3.png)
-Time Complexity: Time complexity (worst case) will be O(m+n).
+# Time Complexity: Time complexity (worst case) will be O(m+n).
 
 
