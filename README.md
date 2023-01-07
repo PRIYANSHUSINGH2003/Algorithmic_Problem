@@ -19,7 +19,7 @@ Mathematically, x is palindrome if x = y where y = reverse of x.
  
  sol-output:
  ![image](https://user-images.githubusercontent.com/102310770/211149843-690c4d58-9911-4825-bb3b-1ccd3277edf7.png)
-Time Complexity: O(N) => N
+# Time Complexity: O(N) => N
 
 
 2. Transpose Of Matrix
